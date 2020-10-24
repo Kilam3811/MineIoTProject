@@ -1,4 +1,5 @@
 # ChirpStack Docker example
+Note : This is not the orogianl version of Chirpstack,this version has been tuned into AUS915 standard
 
 This repository contains a skeleton to setup the [ChirpStack](https://www.chirpstack.io)
 open-source LoRaWAN Network Server stack using [Docker Compose](https://docs.docker.com/compose/).
